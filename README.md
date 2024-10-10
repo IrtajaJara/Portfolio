@@ -1,2 +1,3 @@
 # Portfolio
-This Was My First Repository.
+irtajajaraportfolio1.netlify.app
+Was My First Sample Webpage.
